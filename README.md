@@ -1,16 +1,19 @@
-# app_refeicao
+![Thumbnail GitHub](lib\assets\banner.jpg)
 
-A new Flutter project.
+<h1 align="center"> APP REFEIÇÃO </h1>
 
-## Getting Started
+📌 App que simula uma lista de refeições organizado com diferentes categorias. Desenvolvido junto com o [Leonardo Moura Leitão](https://linkedin.com/leonardo-leit%C3%A3o-8a5813186/), instrutor da Cod3r Ensino.
 
-This project is a starting point for a Flutter application.
+## 🔨 Funcionalidades do projeto
 
-A few resources to get you started if this is your first Flutter project:
+* O APP REFEIÇÕES tem o intuito de trabalhar o conceito de rotas nomeadas e aumentar o desafio de aprendizado. Na tela inicial temos uma lista de categorias de refeições. Em cada categoria mostra alguns pratos pertencentes à ela. No `drawer` temos duas tela: Refeições e Configurações.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![](lib\assets\demo.gif)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✔️ Técnicas e tecnologias utilizadas
+
+- `componentização`: os componentes personalizados do projeto encontram-se na pasta "components"
+- `centralização de imagens`: todas as imagens utilizadas no app vêm de um arquivo chamado app_images que aumenta o poder de personalização sem grande impacto na lógica do código.
+- `Rotas Nomeadas`: Por um aplicativo simples, utilizamos as rotas nomeadas.
+
+
