@@ -1,4 +1,6 @@
-![Thumbnail GitHub](lib\assets\banner.jpg)
+<div align=center>
+    <img src=lib\assets\banner.jpg>
+</div>
 
 <h1 align="center"> APP REFEIÇÃO </h1>
 
@@ -8,7 +10,7 @@
 
 * O APP REFEIÇÕES tem o intuito de trabalhar o conceito de rotas nomeadas e aumentar o desafio de aprendizado. Na tela inicial temos uma lista de categorias de refeições. Em cada categoria mostra alguns pratos pertencentes à ela. No `drawer` temos duas tela: Refeições e Configurações.
 
-![](lib\assets\demo.gif)
+<img src=lib\assets\demo.gif>
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
